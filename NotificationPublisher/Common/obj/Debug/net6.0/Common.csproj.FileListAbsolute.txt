@@ -1,0 +1,12 @@
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\bin\Debug\net6.0\Common.deps.json
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\bin\Debug\net6.0\Common.dll
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\bin\Debug\net6.0\ref\Common.dll
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\bin\Debug\net6.0\Common.pdb
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\obj\Debug\net6.0\Common.dll
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\obj\Debug\net6.0\ref\Common.dll
+F:\Dev\signalr_notification_client\NotificationPublisher\Common\obj\Debug\net6.0\Common.pdb

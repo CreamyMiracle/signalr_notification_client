@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujInkGrTCFk+R8yEnVtdAMq19ZgjytBBlHdPUryFELx5s56R+LsMTkIA1HU4hKrO2QGQiIjdkxiW0JdDa7jDYg==",
+  "success": true,
+  "projectFilePath": "F:\\Dev\\signalr_notification_client\\NotificationPublisher\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rajala\\.nuget\\packages\\refit\\6.1.15\\refit.6.1.15.nupkg.sha512",
+    "C:\\Users\\Rajala\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
