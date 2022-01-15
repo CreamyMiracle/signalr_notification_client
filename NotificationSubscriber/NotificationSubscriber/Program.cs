@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Text.Json;
-using Common;
 using Microsoft.AspNetCore.SignalR.Client;
 using Refit;
 

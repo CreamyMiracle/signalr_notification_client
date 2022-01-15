@@ -20,8 +20,6 @@ F:\Dev\signalr_notification_client\NotificationPublisher\NotificationPublisher\b
 F:\Dev\signalr_notification_client\NotificationPublisher\NotificationPublisher\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 F:\Dev\signalr_notification_client\NotificationPublisher\NotificationPublisher\bin\Debug\net6.0\Refit.dll
 F:\Dev\signalr_notification_client\NotificationPublisher\NotificationPublisher\bin\Debug\net6.0\System.IO.Pipelines.dll
-F:\Dev\signalr_notification_client\NotificationPublisher\NotificationPublisher\bin\Debug\net6.0\Common.dll
-F:\Dev\signalr_notification_client\NotificationPublisher\NotificationPublisher\bin\Debug\net6.0\Common.pdb
 F:\Dev\signalr_notification_client\NotificationPublisher\NotificationPublisher\obj\Debug\net6.0\NotificationPublisher.csproj.AssemblyReference.cache
 F:\Dev\signalr_notification_client\NotificationPublisher\NotificationPublisher\obj\Debug\net6.0\NotificationPublisher.GeneratedMSBuildEditorConfig.editorconfig
 F:\Dev\signalr_notification_client\NotificationPublisher\NotificationPublisher\obj\Debug\net6.0\NotificationPublisher.AssemblyInfoInputs.cache

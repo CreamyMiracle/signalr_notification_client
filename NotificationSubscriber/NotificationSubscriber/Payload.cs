@@ -1,4 +1,4 @@
-﻿namespace Common
+﻿namespace NotificationSubscriber
 {
     public class Payload
     {
